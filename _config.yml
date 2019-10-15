@@ -1,0 +1,6 @@
+prose:
+  ignore:
+    - CNAME
+    - index.html
+    - _config.yml
+    - *.html
